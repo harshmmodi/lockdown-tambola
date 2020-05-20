@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/lockdown-tambola/static/css/main.2a0b2dfe.chunk.css",
-    "main.js": "/lockdown-tambola/static/js/main.6e00838f.chunk.js",
-    "main.js.map": "/lockdown-tambola/static/js/main.6e00838f.chunk.js.map",
+    "main.js": "/lockdown-tambola/static/js/main.a942a7e9.chunk.js",
+    "main.js.map": "/lockdown-tambola/static/js/main.a942a7e9.chunk.js.map",
     "runtime-main.js": "/lockdown-tambola/static/js/runtime-main.d15951ca.js",
     "runtime-main.js.map": "/lockdown-tambola/static/js/runtime-main.d15951ca.js.map",
-    "static/js/2.7ec45492.chunk.js": "/lockdown-tambola/static/js/2.7ec45492.chunk.js",
-    "static/js/2.7ec45492.chunk.js.map": "/lockdown-tambola/static/js/2.7ec45492.chunk.js.map",
+    "static/js/2.f58600f5.chunk.js": "/lockdown-tambola/static/js/2.f58600f5.chunk.js",
+    "static/js/2.f58600f5.chunk.js.map": "/lockdown-tambola/static/js/2.f58600f5.chunk.js.map",
     "index.html": "/lockdown-tambola/index.html",
-    "precache-manifest.c039a1e72d8b712cf53a73c4ece03923.js": "/lockdown-tambola/precache-manifest.c039a1e72d8b712cf53a73c4ece03923.js",
+    "precache-manifest.7f1120856d4f4bffc6bc0e52d3da4892.js": "/lockdown-tambola/precache-manifest.7f1120856d4f4bffc6bc0e52d3da4892.js",
     "service-worker.js": "/lockdown-tambola/service-worker.js",
     "static/css/main.2a0b2dfe.chunk.css.map": "/lockdown-tambola/static/css/main.2a0b2dfe.chunk.css.map",
-    "static/js/2.7ec45492.chunk.js.LICENSE.txt": "/lockdown-tambola/static/js/2.7ec45492.chunk.js.LICENSE.txt"
+    "static/js/2.f58600f5.chunk.js.LICENSE.txt": "/lockdown-tambola/static/js/2.f58600f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d15951ca.js",
-    "static/js/2.7ec45492.chunk.js",
+    "static/js/2.f58600f5.chunk.js",
     "static/css/main.2a0b2dfe.chunk.css",
-    "static/js/main.6e00838f.chunk.js"
+    "static/js/main.a942a7e9.chunk.js"
   ]
 }
