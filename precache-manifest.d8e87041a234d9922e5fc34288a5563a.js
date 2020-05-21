@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c596a2fb6155fb62504ca8912a9094aa",
+    "revision": "a60a8120f1bce83b5ecde30586331597",
     "url": "/lockdown-tambola/index.html"
   },
   {
-    "revision": "22677e9ea734ddc0baca",
-    "url": "/lockdown-tambola/static/css/main.031af985.chunk.css"
+    "revision": "6c0d20c8b28331319915",
+    "url": "/lockdown-tambola/static/css/main.e90ca603.chunk.css"
   },
   {
     "revision": "58da79274478bd23a53b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lockdown-tambola/static/js/2.f58600f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "22677e9ea734ddc0baca",
+    "revision": "6c0d20c8b28331319915",
     "url": "/lockdown-tambola/static/js/main.34a20cc1.chunk.js"
   },
   {
