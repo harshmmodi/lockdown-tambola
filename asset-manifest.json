@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lockdown-tambola/static/css/main.e90ca603.chunk.css",
-    "main.js": "/lockdown-tambola/static/js/main.bc5d1015.chunk.js",
-    "main.js.map": "/lockdown-tambola/static/js/main.bc5d1015.chunk.js.map",
+    "main.js": "/lockdown-tambola/static/js/main.11276afe.chunk.js",
+    "main.js.map": "/lockdown-tambola/static/js/main.11276afe.chunk.js.map",
     "runtime-main.js": "/lockdown-tambola/static/js/runtime-main.d15951ca.js",
     "runtime-main.js.map": "/lockdown-tambola/static/js/runtime-main.d15951ca.js.map",
     "static/js/2.f58600f5.chunk.js": "/lockdown-tambola/static/js/2.f58600f5.chunk.js",
     "static/js/2.f58600f5.chunk.js.map": "/lockdown-tambola/static/js/2.f58600f5.chunk.js.map",
     "index.html": "/lockdown-tambola/index.html",
-    "precache-manifest.edf99637b3b0b053a147cdb95adf620f.js": "/lockdown-tambola/precache-manifest.edf99637b3b0b053a147cdb95adf620f.js",
+    "precache-manifest.d48a49f98ac35b796dc06ab516ac1d0e.js": "/lockdown-tambola/precache-manifest.d48a49f98ac35b796dc06ab516ac1d0e.js",
     "service-worker.js": "/lockdown-tambola/service-worker.js",
     "static/css/main.e90ca603.chunk.css.map": "/lockdown-tambola/static/css/main.e90ca603.chunk.css.map",
     "static/js/2.f58600f5.chunk.js.LICENSE.txt": "/lockdown-tambola/static/js/2.f58600f5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d15951ca.js",
     "static/js/2.f58600f5.chunk.js",
     "static/css/main.e90ca603.chunk.css",
-    "static/js/main.bc5d1015.chunk.js"
+    "static/js/main.11276afe.chunk.js"
   ]
 }
