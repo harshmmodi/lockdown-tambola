@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lockdown-tambola/precache-manifest.1320d04e39c078f7f53ecaa5fe5d6f6e.js"
+  "/lockdown-tambola/precache-manifest.8ba495db7e3edc2e3c97fb3b63325ca9.js"
 );
 
 self.addEventListener('message', (event) => {
